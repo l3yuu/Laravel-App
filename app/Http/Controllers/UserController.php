@@ -21,10 +21,12 @@ class UserController extends Controller
             return redirect('/')->with('error', 'Invalid login credentials');
         }
     }
+
     public function logout(){
         auth()->logout();
         return redirect('/');
     }
+    
     public function register(Request $request){
         $incomingFields = $request->validate([
             'name' => ['required', 'min:3', 'max:255', Rule::unique('users', 'name')],
