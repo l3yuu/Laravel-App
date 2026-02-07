@@ -1,17 +1,17 @@
-# 📝 My First Laravel Project
+# My First Laravel Project
 
 Welcome to my very first step into the **Laravel** ecosystem! This repository marks the beginning of my journey to mastering modern PHP web development. I am building this project to learn the core concepts of MVC (Model-View-Controller), routing, and database management.
 
 
 
-## 🚀 The Goal
+## The Goal
 The purpose of this project is to get hands-on experience with:
 * **Routing & Controllers:** How Laravel handles URLs and logic.
 * **Blade Templating:** Creating dynamic layouts with PHP.
 * **Eloquent ORM:** Interacting with the database easily.
 * **Migrations:** Managing database schema through code.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Framework:** Laravel 11
 * **Language:** PHP
 * **Database:** MySQL
@@ -19,7 +19,7 @@ The purpose of this project is to get hands-on experience with:
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 If you want to run this project locally, follow these steps:
 
